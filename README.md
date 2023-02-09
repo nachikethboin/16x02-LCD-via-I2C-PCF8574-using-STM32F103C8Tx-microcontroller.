@@ -12,3 +12,4 @@ in main.c file provided prints HELLO from nachi
 
 (you can configure your main.c file for your requirement)
 
+default STM32F1xx_HAL_Driver and CMSIS Driver in use.
